@@ -9,3 +9,38 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Concrete Verses,Grey Matter,hip hop,moody,0.68,92,0.55,0.85,0.15
+12,Block Party,MC Sunblock,hip hop,happy,0.72,100,0.74,0.88,0.12
+13,Velvet Hour,Ivy Lane,r&b,romantic,0.55,96,0.68,0.72,0.35
+14,Slow Text Back,Ivy Lane,r&b,chill,0.48,88,0.60,0.66,0.42
+15,Festival Drop,Pulsewave,edm,energetic,0.95,128,0.80,0.90,0.04
+16,Laser Storm,Pulsewave,edm,intense,0.97,140,0.72,0.86,0.03
+17,Sunday Warehouse,Deep Groove,house,happy,0.85,124,0.82,0.91,0.08
+18,Basement Machine,Kilohertz,techno,intense,0.90,135,0.50,0.83,0.05
+19,Morning Prelude,Anna Vess,classical,calm,0.25,70,0.55,0.20,0.95
+20,Thunder Movement,Anna Vess,classical,dramatic,0.60,100,0.45,0.25,0.90
+21,Cabin Windows,Willow Creek,folk,relaxed,0.38,96,0.62,0.48,0.88
+22,Harvest Song,Willow Creek,folk,happy,0.50,110,0.75,0.55,0.82
+23,Backroad Sunshine,Dusty Boots,country,happy,0.62,118,0.78,0.68,0.55
+24,Empty Bar Stool,Dusty Boots,country,moody,0.45,92,0.50,0.52,0.62
+25,Iron Lungs,Ashfall,metal,intense,0.98,160,0.40,0.60,0.06
+26,Broken Anthem,Ashfall,metal,angry,0.96,172,0.35,0.58,0.05
+27,Island Time,Salt & Sun,reggae,relaxed,0.55,90,0.80,0.75,0.40
+28,Late Night Letter,Marlo King,soul,romantic,0.52,84,0.70,0.64,0.45
+29,Get Up Groove,The Funk Unit,funk,happy,0.80,112,0.85,0.90,0.20
+30,Mirrorball,Studio 54ever,disco,happy,0.83,120,0.88,0.92,0.15
+31,Rainy Highway,Delta Blue,blues,moody,0.42,80,0.45,0.50,0.72
+32,Fast Forward,Static Youth,punk,intense,0.93,165,0.55,0.62,0.10
+33,Neon Heartbeat,Star Bloom,k-pop,happy,0.88,126,0.86,0.89,0.14
+34,Dance the Night,Ritmo,latin,energetic,0.84,100,0.83,0.93,0.30
+35,Circuit Breaker,Kilohertz,drum and bass,intense,0.95,174,0.60,0.80,0.06
+36,Lazy Afternoon,Neon Echo,pop,chill,0.60,108,0.70,0.75,0.25
+37,Study Hours,LoRoom,lofi,focused,0.38,76,0.55,0.58,0.80
+38,Weekend Anthem,Voltline,rock,happy,0.80,138,0.72,0.70,0.18
+39,Smoke and Mirrors,Slow Stereo,jazz,moody,0.40,96,0.55,0.56,0.85
+40,Paper Planes,Indigo Parade,indie pop,chill,0.58,114,0.68,0.74,0.40
+41,Still Water,Aurora Fields,new age,calm,0.22,64,0.58,0.30,0.90
+42,Winter Elegy,Celeste Marlow,neoclassical,melancholy,0.26,68,0.42,0.22,0.94
+43,Fog Machine,Velour,trip hop,moody,0.29,82,0.48,0.55,0.55
+44,Rise Up Slow,The Harmony Choir,gospel,hopeful,0.28,74,0.72,0.45,0.68
+45,Highland Mist,Brennan Roe,celtic,relaxed,0.24,78,0.63,0.38,0.85
